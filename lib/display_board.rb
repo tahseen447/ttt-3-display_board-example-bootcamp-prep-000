@@ -18,12 +18,12 @@ def display_board
   print "#{cell}"
   puts "#{dash}"
 
-  print #{cell}
-  print #{separator}
-  print #{cell}
-  print #{separator}
-  print #{cell}
-  puts #{dash}
+  print "#{cell}"
+  print "#{separator}"
+  print "#{cell}"
+  print "#{separator}"
+  print "#{cell}"
+  puts "#{dash}"
 
 
 

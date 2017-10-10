@@ -8,21 +8,21 @@ def display_board
   print "#{separator}"
   print "#{cell}"
   print "#{separator}"
-  print "#{cell}"
+  puts "#{cell}"
   puts "#{dash}"
 
   print "#{cell}"
   print "#{separator}"
   print "#{cell}"
   print "#{separator}"
-  print "#{cell}"
+  puts "#{cell}"
   puts "#{dash}"
 
   print "#{cell}"
   print "#{separator}"
   print "#{cell}"
   print "#{separator}"
-  print "#{cell}"
+  puts "#{cell}"
   puts "#{dash}"
 
 end

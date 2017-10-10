@@ -14,6 +14,6 @@ def display_separtor
 end
 
 def display_dash
-  cell = "   "
-  puts #{cell}
+  dash = "-----------"
+  puts #{dash}
 end

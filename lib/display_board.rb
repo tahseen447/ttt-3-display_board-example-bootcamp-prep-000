@@ -4,12 +4,12 @@ def display_board
   cell = "   "
   separator = "|"
   dash = "-----------"
-  print #{cell}
-  print #{separator}
-  print #{cell}
-  print #{separator}
-  print #{cell}
-  puts #{dash}
+  print "#{cell}"
+  print "#{separator}"
+  print "#{cell}"
+  print "#{separator}"
+  print "#{cell}"
+  puts "#{dash}"
 
   print #{cell}
   print #{separator}
@@ -24,7 +24,7 @@ def display_board
   print #{separator}
   print #{cell}
   puts #{dash}
-  
+
 
 
 end

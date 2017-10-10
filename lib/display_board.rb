@@ -9,7 +9,22 @@ def display_board
   print #{cell}
   print #{separator}
   print #{cell}
-  print #{dash}
+  puts #{dash}
+
+  print #{cell}
+  print #{separator}
+  print #{cell}
+  print #{separator}
+  print #{cell}
+  puts #{dash}
+
+  print #{cell}
+  print #{separator}
+  print #{cell}
+  print #{separator}
+  print #{cell}
+  puts #{dash}
+  
 
 
 end

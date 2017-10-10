@@ -23,7 +23,5 @@ def display_board
   print "#{cell}"
   print "#{separator}"
   puts "#{cell}"
-  puts "#{dash}"
 
 end
-

@@ -4,9 +4,13 @@ def display_board
   cell = "   "
   separator = "|"
   dash = "-----------"
-  puts #{dash}
+  print #{cell}
   print #{separator}
   print #{cell}
+  puts #{dash}
+  print #{cell}
+  print #{separator}
+  
 
 end
 

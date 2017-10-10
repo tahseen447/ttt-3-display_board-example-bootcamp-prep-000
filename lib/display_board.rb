@@ -27,17 +27,3 @@ def display_board
 
 end
 
-def display_cell
-     cell = "   "
-     print #{cell}
-  end
-
-def display_separtor
-  separator = "|"
-  print #{separator}
-end
-
-def display_dash
-  dash = "-----------"
-  puts #{dash}
-end
